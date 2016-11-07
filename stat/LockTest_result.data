@@ -1,0 +1,23 @@
+Round 1:
+testObjectLockWith[1]Thread: 282
+testReentrantLockWith[1]Thread: 256
+testReentrantReadLockWith[1]Thread: 254
+testObjectLockWith[3]Thread: 850
+testReentrantLockWith[3]Thread: 683
+testReentrantReadLockWith[3]Thread: 731
+
+Round 2:
+testObjectLockWith[1]Thread: 306
+testReentrantLockWith[1]Thread: 303
+testReentrantReadLockWith[1]Thread: 278
+testObjectLockWith[3]Thread: 1058
+testReentrantLockWith[3]Thread: 676
+testReentrantReadLockWith[3]Thread: 753
+
+Round 3:
+testObjectLockWith[1]Thread: 282
+testReentrantLockWith[1]Thread: 267
+testReentrantReadLockWith[1]Thread: 251
+testObjectLockWith[3]Thread: 951
+testReentrantLockWith[3]Thread: 700
+testReentrantReadLockWith[3]Thread: 753
